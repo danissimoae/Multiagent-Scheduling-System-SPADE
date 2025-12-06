@@ -1,0 +1,41 @@
+{
+  "xmpp_server": "localhost",
+  "shops": [
+    {
+      "id": 1,
+      "jid": "shop1@localhost",
+      "password": "shop1",
+      "shop_id": "shop1",
+      "location": [10, 20],
+      "time_window": [8, 18],
+      "needs": {
+        "product1": 50,
+        "product2": 30
+      }
+    },
+    {
+      "id": 2,
+      "jid": "shop2@localhost",
+      "password": "shop2",
+      "shop_id": "shop2",
+      "location": [25, 15],
+      "time_window": [9, 17],
+      "needs": {
+        "product1": 70,
+        "product3": 40
+      }
+    },
+    {
+      "id": 3,
+      "jid": "shop3@localhost",
+      "password": "shop3",
+      "shop_id": "shop3",
+      "location": [5, 30],
+      "time_window": [10, 16],
+      "needs": {
+        "product2": 60,
+        "product3": 20
+      }
+    }
+  ]
+}

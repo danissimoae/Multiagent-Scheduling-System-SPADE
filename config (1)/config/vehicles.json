@@ -1,0 +1,29 @@
+{
+  "xmpp_server": "localhost",
+  "vehicles": [
+    {
+      "id": 1,
+      "jid": "vehicle1@localhost",
+      "password": "vehicle1pass",
+      "capacity": 100,
+      "speed": 60,
+      "name": "Грузовик-1"
+    },
+    {
+      "id": 2,
+      "jid": "vehicle2@localhost",
+      "password": "vehicle2pass",
+      "capacity": 150,
+      "speed": 50,
+      "name": "Грузовик-2"
+    },
+    {
+      "id": 3,
+      "jid": "vehicle3@localhost",
+      "password": "vehicle3pass",
+      "capacity": 80,
+      "speed": 70,
+      "name": "Грузовик-3"
+    }
+  ]
+}
