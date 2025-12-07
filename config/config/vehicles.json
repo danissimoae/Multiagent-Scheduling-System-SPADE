@@ -4,7 +4,7 @@
     {
       "id": 1,
       "jid": "vehicle1@localhost",
-      "password": "vehicle1",
+      "password": "vehicle1pass",
       "capacity": 100,
       "speed": 60,
       "name": "Грузовик-1"
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "jid": "vehicle2@localhost",
-      "password": "vehicle2",
+      "password": "vehicle2pass",
       "capacity": 150,
       "speed": 50,
       "name": "Грузовик-2"
